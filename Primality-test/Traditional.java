@@ -17,6 +17,6 @@ class Traditional
             if(n%i ==0)
                 return false;
         }
-        return f;
+        return true;
     }
 }
